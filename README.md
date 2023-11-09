@@ -3,13 +3,13 @@
 This customer segmentation project was completed as the final assignment of the IBM Data Science course. The goal of this project was to analyze customer data and segment customers into distinct groups based on various features.
 
 ## **Table of Contents**
-Project Overview
-Dataset
-Project Structure
-Dependencies
-Usage
-Contributing
-License
+- [**Project Overview**](#project-overview)
+- [**Dataset**](#dataset)
+- [**Project Structure**](#project-structure)
+- [**Dependencies**](#dependencies)
+- [**Usage**](#usage)
+- [**Contributing**](#contributing)
+- [**License**](#license)
 
 ## **Project Overview**
 Customer segmentation is a crucial task for businesses to understand their customer base better, tailor marketing strategies, and enhance customer satisfaction. In this project, we utilized machine learning techniques, including K-Means clustering, to segment customers based on features such as age, gender,profession, and spending score.
