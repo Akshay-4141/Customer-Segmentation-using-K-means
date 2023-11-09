@@ -1,6 +1,5 @@
-# IBM-Data-Science---Applied-Data-Science-Capstone
 # Customer Segmentation Project
-This customer segmentation project was completed as the final assignment of the IBM Data Science course. The goal of this project was to analyze customer data and segment customers into distinct groups based on various features.
+This customer segmentation project was completed as the final assignment of the Data Science course. The goal of this project was to analyze customer data and segment customers into distinct groups based on various features.
 
 ## **Table of Contents**
 - [**Project Overview**](#project-overview)
