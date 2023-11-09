@@ -15,14 +15,13 @@ This customer segmentation project was completed as the final assignment of the 
 Customer segmentation is a crucial task for businesses to understand their customer base better, tailor marketing strategies, and enhance customer satisfaction. In this project, we utilized machine learning techniques, including K-Means clustering, to segment customers based on features such as age, gender,profession, and spending score.
 
 ## **Dataset**
-The dataset used in this project contains information about customers, including their gender, age, marital status, profession, spending score, and other attributes. The dataset was provided as part of the IBM Data Science course.
+The dataset used in this project contains information about customers, including their gender, age, marital status, profession, spending score, and other attributes. The dataset were taken from kaggle.com.
 
 ## Project Structure
 The project structure is organized as follows:
 
 data/: Contains the dataset files.
 notebooks/: Jupyter notebooks used for data exploration, preprocessing, and modeling.
-src/: Source code files.
 README.md: Project documentation (you are here).
 
 ## **Dependencies**
@@ -39,5 +38,3 @@ If you have suggestions, enhancements, or bug fixes, feel free to open an issue 
 
 ## **License**
 This project is licensed under the MIT License.
-
-Feel free to further customize the content based on your specific project requirements!
